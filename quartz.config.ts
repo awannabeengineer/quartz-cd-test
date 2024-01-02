@@ -4,6 +4,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "a page title",
+    siteTitle: "a site title",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
